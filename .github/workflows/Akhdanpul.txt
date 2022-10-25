@@ -18,3 +18,8 @@ jobs:
         run: |
           cd script
           pytest check.py --name ${{ github.actor }}
+          
+  hari ini tuan budi datang ke itb untuk arc day 1
+          
+          
+
